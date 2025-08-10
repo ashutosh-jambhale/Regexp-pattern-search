@@ -1,7 +1,5 @@
 /**
  * Author: Ashutosh Jambhale
- * Student ID: 1657201
- * Partner: Alex Jensen, 1620449
  * Last Modified: 14 May 2025
  * Description: Compiles a regular expression into an NFA.
  * Outputs NFA in format: state-number,type,next1,next2
